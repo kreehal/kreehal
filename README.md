@@ -7,7 +7,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-
 class Coder:
 
     def __init__(self):
@@ -17,7 +16,6 @@ class Coder:
 
     def greet(self):
         print("Thanks for dropping by, make sure to check out my work!")
-
 
 me = Coder()
 me.greet()
