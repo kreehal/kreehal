@@ -1,23 +1,21 @@
 # Hey there! 👋
 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
-
-
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-class Coder:
+class Programmer:
 
     def __init__(self):
         self.name = "Kerrn Reehal"
-        self.role = "Coder"
-        self.language_spoken = ["English, French, Hindi"]
+        self.school = "UC Berkeley"
+        self.exp_grad = "May 2024"
+        self.languages_spoken = ["English, French, Hindi"]
 
     def greet(self):
         print("Thanks for dropping by, make sure to check out my work!")
 
-me = Coder()
+me = Programmer()
 me.greet()
 ```
 
