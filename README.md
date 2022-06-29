@@ -1,4 +1,4 @@
-# Hey there! 👋
+# Hello, World!
 
 ```python
 #!/usr/bin/python
