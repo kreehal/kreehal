@@ -20,7 +20,7 @@ me.greet()
 ```
 
 
-- Personal website: https://kreehal.github.io/
+- Personal website: https://kreehal.me
 
 
 ## 🔧 Tools and Technologies
